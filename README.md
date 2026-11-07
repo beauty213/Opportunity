@@ -2,6 +2,9 @@
 
 > **"Don't make students search endlessly for scholarships. Help the right opportunities find the right students."**
 
+🔗 **Live Deployment**: [https://zippy-lagoon-68k8xhg.tmp.now](https://zippy-lagoon-68k8xhg.tmp.now)  
+📦 **GitHub Repository**: [https://github.com/beauty213/Opportunity](https://github.com/beauty213/Opportunity)
+
 ScholarEase is an intelligent, student-centric financial aid companion designed to eliminate the structural friction, repetitive physical trips, and high rejection rates faced by Indian higher education students when seeking scholarships, fee reimbursements, and educational grants.
 
 Initial regional implementation: **Telangana** (ePASS Post-Matric RTF & MTF, Lateral Entry B.Tech, MeeSeva revenue verification) and **National Portals** (NSP, AICTE Pragati/Saksham, Corporate CSR), architected with modular rule schemas for easy expansion across all Indian states.
