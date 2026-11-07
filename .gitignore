@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & Caches
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+
+# Production builds
+dist/
+build/
+
+# Local databases & uploads
+*.db
+*.sqlite
+uploads/*.pdf
+uploads/*.png
+uploads/*.jpg
+
+# Environment & IDE
+.env
+.DS_Store
+.idea/
+.vscode/
+*.swp
